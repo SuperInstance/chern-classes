@@ -1,0 +1,9 @@
+[package]
+name = "chern-classes"
+version = "0.1.0"
+edition = "2021"
+description = "Characteristic classes for vector bundles: Chern, Todd, Pontryagin classes with splitting principle"
+license = "MIT"
+repository = "https://github.com/SuperInstance/chern-classes"
+
+[dependencies]
